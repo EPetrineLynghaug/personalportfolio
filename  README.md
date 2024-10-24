@@ -1,4 +1,4 @@
- Personal Portfolio
+ # Personal Portfolio, test project
 
 This is a personal portfolio project created as a test project to showcase skills and projects using ASP.NET Core and Tailwind CSS.
 
