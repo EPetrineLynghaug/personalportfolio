@@ -1,0 +1,36 @@
+# .NET Core
+bin/
+obj/
+
+# ASP.NET specific files
+*.user
+*.suo
+*.sln.docstates
+
+# Node.js dependencies
+node_modules/
+
+# Build output
+wwwroot/css/output.css
+wwwroot/js/*.js
+
+# Logs
+logs/
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+
+# Visual Studio
+.vs/
+
+# VS Code settings
+.vscode/
+
+# Lock files
+package-lock.json
+yarn.lock
